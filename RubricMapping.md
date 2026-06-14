@@ -1,4 +1,4 @@
-# Rubric Mapping — CDIEM Project
+    # Rubric Mapping — CDIEM Project
 
 > **CDIEM** — Crime & Digital Investigation Evidence Management System
 > Software Design and Architecture — Spring 2026
